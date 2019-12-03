@@ -1,0 +1,1 @@
+package com.example.zy.zy_mobileshop.fragment;import android.support.v4.app.Fragment;import com.example.zy.zy_mobileshop.R;import com.example.zy.zy_mobileshop.common.BaseFragment;/** * A simple {@link Fragment} subclass. */public class CartFragment extends BaseFragment {    @Override    public int getContentId() {        return R.layout.fragment_cart;    }}
